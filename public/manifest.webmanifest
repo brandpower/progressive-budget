@@ -1,0 +1,7 @@
+{
+    "name": "Progressive-Budget",
+    "short_name": "Progressive-Budget",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff"
+}
